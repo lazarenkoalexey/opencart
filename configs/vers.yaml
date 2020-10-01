@@ -1,2 +1,6 @@
 globals:
   opencart: "3.0.3.6"
+
+actions:
+  import: 
+    log: "Imported action"
