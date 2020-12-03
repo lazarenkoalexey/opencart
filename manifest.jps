@@ -7,7 +7,7 @@ logo: https://download.jelastic.com/public.php?service=files&t=fdfd68ab2a5a69003
 categories:
 - apps/e-commerce
 - apps/sales-and-marketing
-baseUrl: https://raw.githubusercontent.com/lazarenkoalexey/opencart/master/
+baseUrl: https://raw.githubusercontent.com/jelastic-jps/opencart/master/
 
 mixins:
  - configs/vers.yaml
